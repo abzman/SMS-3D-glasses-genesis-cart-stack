@@ -69,10 +69,6 @@
           ""
         ],
         [
-          "lib_footprint_issues|126015000|92970499|5b10f716-683c-40be-ae44-8e6c37400148|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
           "text_height|165385000|102368499|9324cb8c-8d51-4805-81f7-ade3e0da2fcf|00000000-0000-0000-0000-000000000000",
           ""
         ],
@@ -118,8 +114,8 @@
         "item_on_disabled_layer": "error",
         "items_not_allowed": "error",
         "length_out_of_range": "error",
-        "lib_footprint_issues": "warning",
-        "lib_footprint_mismatch": "warning",
+        "lib_footprint_issues": "ignore",
+        "lib_footprint_mismatch": "ignore",
         "malformed_courtyard": "error",
         "microvia_drill_out_of_range": "error",
         "mirrored_text_on_front_layer": "warning",

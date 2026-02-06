@@ -8291,16 +8291,6 @@
 		)
 		(uuid "7bb37ace-a575-455a-8f52-7bbc7b46b8d3")
 	)
-	(text "swapped because mt schematic symbol is different"
-		(exclude_from_sim no)
-		(at 153.416 24.13 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "7d7685a4-9ad1-4f0d-861e-71882a8396a6")
-	)
 	(text "F"
 		(exclude_from_sim no)
 		(at 36.322 107.696 0)
@@ -8343,16 +8333,6 @@
 			)
 		)
 		(uuid "b78b0ac6-2500-404a-a6ef-8c0bd12ff4d8")
-	)
-	(text "noob board has these swapped back"
-		(exclude_from_sim no)
-		(at 158.242 26.162 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "cbe44490-d765-409d-a953-654a8732bf2d")
 	)
 	(text "not present on schematic"
 		(exclude_from_sim no)
@@ -9171,16 +9151,6 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 48.26) (xy 153.67 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "27be46c0-8f9d-46dc-a95c-c198b8dc57d6")
-	)
-	(wire
-		(pts
 			(xy 231.14 90.805) (xy 237.49 90.805)
 		)
 		(stroke
@@ -9188,6 +9158,16 @@
 			(type default)
 		)
 		(uuid "284b4b05-f802-48af-884a-d2ca721ae34d")
+	)
+	(wire
+		(pts
+			(xy 156.21 55.88) (xy 153.67 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "29e4ea95-50fa-4c9f-a0ba-7b7fd890a38f")
 	)
 	(wire
 		(pts
@@ -9301,16 +9281,6 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 48.26) (xy 153.67 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "36d0b009-8ee8-49f0-8aff-8b4c9f0f0b31")
-	)
-	(wire
-		(pts
 			(xy 231.14 111.125) (xy 237.49 111.125)
 		)
 		(stroke
@@ -9328,6 +9298,16 @@
 			(type default)
 		)
 		(uuid "37e9df25-3712-4031-a526-a2f21e92d2ac")
+	)
+	(wire
+		(pts
+			(xy 156.21 48.26) (xy 156.21 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "37fc20a4-de19-4565-84e7-8e9ad1f782b5")
 	)
 	(wire
 		(pts
@@ -9691,16 +9671,6 @@
 	)
 	(polyline
 		(pts
-			(xy 156.21 33.02) (xy 153.67 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5ad08a0b-f906-4672-824d-84a16e87c900")
-	)
-	(polyline
-		(pts
 			(xy 38.1 81.28) (xy 38.1 91.44)
 		)
 		(stroke
@@ -9828,16 +9798,6 @@
 			(type default)
 		)
 		(uuid "6050ade4-d8f2-4a7b-93e2-d062e93e9edb")
-	)
-	(wire
-		(pts
-			(xy 151.13 53.34) (xy 153.67 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "63174707-9908-454f-b2b9-4e2473f125ad")
 	)
 	(wire
 		(pts
@@ -10281,16 +10241,6 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 55.88) (xy 156.21 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8cf3c4e8-bc8b-45c9-8a46-175f91180137")
-	)
-	(wire
-		(pts
 			(xy 129.54 97.79) (xy 129.54 76.2)
 		)
 		(stroke
@@ -10458,6 +10408,16 @@
 			(type default)
 		)
 		(uuid "9d701cfb-72eb-49e5-b06c-a0a537ec2982")
+	)
+	(wire
+		(pts
+			(xy 153.67 53.34) (xy 151.13 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9ed27ab2-0bcb-4ec2-ad75-36f06fdb7c65")
 	)
 	(wire
 		(pts
@@ -10649,16 +10609,6 @@
 		)
 		(uuid "af2c640b-3ed0-4005-a4a4-24d99d7dd588")
 	)
-	(polyline
-		(pts
-			(xy 153.67 33.02) (xy 153.67 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "afa9f5e1-1a0a-477e-a7f0-4abc087dc4ce")
-	)
 	(wire
 		(pts
 			(xy 54.61 147.32) (xy 76.2 147.32)
@@ -10718,16 +10668,6 @@
 			(type default)
 		)
 		(uuid "b2fc645c-58fd-462d-bbb4-8dbb58869ae3")
-	)
-	(polyline
-		(pts
-			(xy 156.21 25.4) (xy 156.21 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b562d39f-47ed-494e-9ad8-b1fec42d9d14")
 	)
 	(wire
 		(pts
@@ -11181,16 +11121,6 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 40.64) (xy 154.94 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e5c08ef3-e4f7-41f7-90d9-956dd94dd906")
-	)
-	(wire
-		(pts
 			(xy 232.41 121.285) (xy 237.49 121.285)
 		)
 		(stroke
@@ -11208,6 +11138,16 @@
 			(type default)
 		)
 		(uuid "e69003da-ee45-47fd-a7b8-43f97b6fde29")
+	)
+	(wire
+		(pts
+			(xy 153.67 55.88) (xy 153.67 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e75f8ae7-3afc-4116-b827-30b5a4a893ef")
 	)
 	(polyline
 		(pts
@@ -11501,7 +11441,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 40.64) (xy 154.94 40.64)
+			(xy 151.13 40.64) (xy 156.21 40.64)
 		)
 		(stroke
 			(width 0)
